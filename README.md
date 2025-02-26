@@ -1,7 +1,7 @@
 # Incident Response & Business Continuity Plan (IR-BCP)  
 
 ## Overview  
-This project provides a **structured Incident Response (IR) and Business Continuity Plan (BCP)** for a fictional company, **XYZ Corp**. The plan ensures that in the event of a **cybersecurity incident**, XYZ Corp can **respond effectively** and **continue business operations** with minimal disruption.  
+This project provides a **structured Incident Response (IR) and Business Continuity Plan (BCP)** for a fictional company, **XYZ Corp**. The plan makes sure that in the event of a **cybersecurity incident**, XYZ Corp can **respond effectively** and **continue business operations** with minimal disruption.  
 
 ## Objectives  
 - **Develop a clear Incident Response Plan (IRP)** for cybersecurity threats.  
